@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW43NzRibjliMHd5ZzAyZ3pyc2lwM3g4eTR2eG53NmQ3eHJqdTVqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="MasterHead" height="200" width="800">
 </p>
 <h1 align="center">Hi 👋, I'm Wesley Wang</h1>
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
+<h3 align="center">A passionate EE student from Taiwan</h3>
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtsam5jMjd0NmVuaXl4ZWxkYXpyeW4wMWZjNnNnZGMyYmtoM2djcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleywang&label=Profile%20views&color=0e75b6&style=flat" alt="wesleywang" /> </p>
