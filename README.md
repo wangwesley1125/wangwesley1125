@@ -21,8 +21,8 @@
 <a href="https://fb.com/https://www.facebook.com/wang.yao.wei.755038?locale=zh_tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wang.yao.wei.755038?locale=zh_tw" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">📱 One of my Projects:</h3>
-<p align="center">
+<h3 align="left">📱 One of my Projects:</h3>
+<p align="left">
   <a href="https://apps.apple.com/us/app/sinweek/id6753893578" target="_blank">
     <img src="https://img.shields.io/badge/Download%20on%20App%20Store-007AFF?style=for-the-badge&logo=app-store&logoColor=white" alt="Download on App Store"/>
   </a>
