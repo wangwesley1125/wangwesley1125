@@ -5,13 +5,6 @@
 <h3 align="center">A passionate Electronic Engineering student from Taiwan</h3>
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtsam5jMjd0NmVuaXl4ZWxkYXpyeW4wMWZjNnNnZGMyYmtoM2djcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 
-<h3 align="center">📱 Check out my App:</h3>
-<p align="center">
-  <a href="https://apps.apple.com/app/id你的AppID](https://apps.apple.com/us/app/sinweek/id6753893578" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20on%20App%20Store-007AFF?style=for-the-badge&logo=app-store&logoColor=white" alt="Download on App Store"/>
-  </a>
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleywang&label=Profile%20views&color=690eb4&style=flat" alt="wesleywang" /> </p>
 
 - 🌱 I’m currently learning **how to think like a software engineer — focusing more on design patterns, scalability, and writing reusable code**
@@ -26,6 +19,13 @@
 <p align="left">
 <a href="https://instagram.com/wangwesley_1125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wangwesley_1125" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/wang.yao.wei.755038?locale=zh_tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/wang.yao.wei.755038?locale=zh_tw" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">📱 Check out my App:</h3>
+<p align="center">
+  <a href="https://apps.apple.com/app/id你的AppID](https://apps.apple.com/us/app/sinweek/id6753893578" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20on%20App%20Store-007AFF?style=for-the-badge&logo=app-store&logoColor=white" alt="Download on App Store"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
