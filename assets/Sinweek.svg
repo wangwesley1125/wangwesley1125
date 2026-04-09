@@ -1,0 +1,45 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="100" height="100" fill="black"/>
+<g clip-path="url(#clip0_1_2)">
+<path d="M81.4172 18H33.5828C32.1564 18 31 19.1193 31 20.5C31 21.8807 32.1564 23 33.5828 23H81.4172C82.8436 23 84 21.8807 84 20.5C84 19.1193 82.8436 18 81.4172 18Z" fill="#FFA229"/>
+</g>
+<g clip-path="url(#clip1_1_2)">
+<path d="M19.5 16C22.5376 16 25 18.4712 25 21.5195C25 23.5622 23.8935 25.3444 22.25 26.2988V45.2197C23.8938 46.1741 25 47.9572 25 50C25 52.0427 23.8935 53.8248 22.25 54.7793V73.7002C23.8938 74.6546 25 76.4376 25 78.4805C25 81.5288 22.5376 84 19.5 84C16.4624 84 14 81.5288 14 78.4805C14 76.4376 15.1062 74.6546 16.75 73.7002V54.7793C15.1065 53.8248 14 52.0427 14 50C14 47.9572 15.1062 46.1741 16.75 45.2197V26.2988C15.1065 25.3444 14 23.5622 14 21.5195C14 18.4712 16.4624 16 19.5 16Z" fill="#FFA229"/>
+</g>
+<g clip-path="url(#clip2_1_2)">
+<path d="M81.4172 47H33.5828C32.1564 47 31 48.1193 31 49.5C31 50.8807 32.1564 52 33.5828 52H81.4172C82.8436 52 84 50.8807 84 49.5C84 48.1193 82.8436 47 81.4172 47Z" fill="#FFA229"/>
+</g>
+<g filter="url(#filter0_d_1_2)">
+<g clip-path="url(#clip3_1_2)">
+<path d="M81.4172 76H33.5828C32.1564 76 31 77.1193 31 78.5C31 79.8807 32.1564 81 33.5828 81H81.4172C82.8436 81 84 79.8807 84 78.5C84 77.1193 82.8436 76 81.4172 76Z" fill="url(#paint0_linear_1_2)"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_1_2" x="27" y="76" width="61" height="13" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_2"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_2" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_1_2" x1="31" y1="78.5" x2="84" y2="78.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFA229"/>
+<stop offset="1" stop-color="#996119"/>
+</linearGradient>
+<clipPath id="clip0_1_2">
+<rect width="53" height="5" fill="white" transform="translate(31 18)"/>
+</clipPath>
+<clipPath id="clip1_1_2">
+<rect width="11" height="68" fill="white" transform="translate(14 16)"/>
+</clipPath>
+<clipPath id="clip2_1_2">
+<rect width="53" height="5" fill="white" transform="translate(31 47)"/>
+</clipPath>
+<clipPath id="clip3_1_2">
+<rect width="53" height="5" fill="white" transform="translate(31 76)"/>
+</clipPath>
+</defs>
+</svg>
