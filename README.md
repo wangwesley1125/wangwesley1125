@@ -30,6 +30,10 @@
   <a href="https://apps.apple.com/us/app/高科-plus/id6760967835" target="_blank">
     <img src="./assets/CollegeApp.svg" width="80" height="80" />
   </a>
+
+  <a href="https://github.com/wangwesley1125/taichung-green-store-app" target="_blank">
+    <img src="./assets/GreenStoreApp.svg" width="80" height="80" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
