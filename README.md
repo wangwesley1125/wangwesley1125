@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Wesley Wang</h1>
 <h3 align="center">A passionate Electronic Engineering student from Taiwan</h3>
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtsam5jMjd0NmVuaXl4ZWxkYXpyeW4wMWZjNnNnZGMyYmtoM2djcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThnamw1a3ZlaWF2N3VqOTAzdDNybDEzam5jcGx2MHM5OWkyczFzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OpPyw0U5IGZDog5K4U/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleywang&label=Profile%20views&color=690eb4&style=flat" alt="wesleywang" /> </p>
 
