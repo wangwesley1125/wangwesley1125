@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=swift,figma,apple,arduino,c,cpp,py,firebase)](https://skillicons.dev)
 
 ## 🚀 My Projects
-<p align="left">
+<!--<p align="left">
   <a href="https://apps.apple.com/us/app/sinweek/id6753893578" target="_blank">
     <img src="./assets/Sinweek.svg" width="50" height="50" style="border-radius: 20px;"/>
   </a>
@@ -31,6 +31,9 @@
   <a href="https://github.com/wangwesley1125/taichung-green-store-app" target="_blank">
     <img src="./assets/GreenStoreApp.svg" width="50" height="50" style="border-radius: 20px;"/>
   </a>
+</p>!-->
+<p align="left">
+  <a href="https://apps.apple.com/us/app/sinweek/id6753893578" target="_blank"><img src="./assets/Sinweek.svg" width="50" height="50" style="border-radius: 20px;"/></a><a href="https://apps.apple.com/us/app/高科-plus/id6760967835" target="_blank"><img src="./assets/CollegeApp.svg" width="50" height="50" style="border-radius: 20px;"/></a><a href="https://github.com/wangwesley1125/taichung-green-store-app" target="_blank"><img src="./assets/GreenStoreApp.svg" width="50" height="50" style="border-radius: 20px;"/></a>
 </p>
 
 ## ⭐ Status and dev activity
