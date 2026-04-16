@@ -32,9 +32,11 @@
     <img src="./assets/GreenStoreApp.svg" width="50" height="50" style="border-radius: 20px;"/>
   </a>
 </p>!-->
-<p align="left">
-  <a href="https://apps.apple.com/us/app/sinweek/id6753893578" target="_blank"><img src="./assets/Sinweek.svg" width="50" height="50" style="border-radius: 20px;"/></a><a href="https://apps.apple.com/us/app/高科-plus/id6760967835" target="_blank"><img src="./assets/CollegeApp.svg" width="50" height="50" style="border-radius: 20px;"/></a><a href="https://github.com/wangwesley1125/taichung-green-store-app" target="_blank"><img src="./assets/GreenStoreApp.svg" width="50" height="50" style="border-radius: 20px;"/></a>
-</p>
+<table><tr>
+  <td><a href="https://apps.apple.com/us/app/sinweek/id6753893578"><img src="./assets/Sinweek.svg" width="50" height="50" style="border-radius: 20px;"/></a></td>
+  <td><a href="https://apps.apple.com/us/app/高科-plus/id6760967835"><img src="./assets/CollegeApp.svg" width="50" height="50" style="border-radius: 20px;"/></a></td>
+  <td><a href="https://github.com/wangwesley1125/taichung-green-store-app"><img src="./assets/GreenStoreApp.svg" width="50" height="50" style="border-radius: 20px;"/></a></td>
+</tr></table>
 
 ## ⭐ Status and dev activity
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangwesley1125&size_weight=0.5&count_weight=0.5)
