@@ -18,11 +18,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=swift,figma,apple,windows,arduino,c,cpp,py,firebase)](https://skillicons.dev)
 
-## 🚀 My Projects & Activity
+## 🚀 My Projects
 
 <table><tr>
   <td><a href="https://apps.apple.com/us/app/sinweek/id6753893578"><img src="./assets/Sinweek.svg" width="50" height="50" style="border-radius: 20px;"/></a></td>
   <td><a href="https://apps.apple.com/us/app/高科-plus/id6760967835"><img src="./assets/CollegeApp.svg" width="50" height="50" style="border-radius: 20px;"/></a></td>
   <td><a href="https://github.com/wangwesley1125/taichung-green-store-app"><img src="./assets/GreenStoreApp.svg" width="50" height="50" style="border-radius: 20px;"/></a></td>
-  <td><a href="https://github.com/wangwesley1125/ICDC2025-Group7"><img src="./assets/ICDC2025.svg" width="50" height="50" style="border-radius: 20px;"/></a></td>
 </tr></table>
+
+## 🏆 Competitions & Activities
+
+- [ICDC 2025 — International Career Development Conference, Group 7](https://github.com/wangwesley1125/ICDC2025-Group7)
+- [技職盃黑客松南區賽 — SDGs 12 Hackathon](https://github.com/wangwesley1125/SDGs12_Hackathon)
