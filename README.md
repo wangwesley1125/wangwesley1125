@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **why writing code is satisfying😆**
 
-- 📫 How to reach me **wangwesley1125@gamil.com**
+- 📫 How to reach me **wangwesley1125@gmail.com**
 
 - ⚡ Fun fact **Sometimes I record myself coding, just to keep myself accountable—and somehow it got heart-reacts💚**
 
