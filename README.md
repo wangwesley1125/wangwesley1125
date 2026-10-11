@@ -16,7 +16,7 @@
 
 ## 🧰 My toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=swift,figma,apple,windows,arduino,c,cpp,py,kotlin,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,figma,apple,windows,vscode,arduino,c,cpp,py,kotlin,androidstudio,firebase)](https://skillicons.dev)
 
 ## 🚀 My Projects
 
