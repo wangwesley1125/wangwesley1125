@@ -24,6 +24,7 @@
   <td><a href="https://apps.apple.com/us/app/sinweek/id6753893578"><img src="./assets/Sinweek.svg" width="50" height="50" style="border-radius: 20px;"/></a></td>
   <td><a href="https://apps.apple.com/us/app/高科-plus/id6760967835"><img src="./assets/CollegeApp.svg" width="50" height="50" style="border-radius: 20px;"/></a></td>
   <td><a href="https://github.com/wangwesley1125/taichung-green-store-app"><img src="./assets/GreenStoreApp.svg" width="50" height="50" style="border-radius: 20px;"/></a></td>
+  <td><a href="https://github.com/wangwesley1125/Basyo_memo"><img src="./assets/Basyo_Memo_App.png" width="50" height="50" style="border-radius: 20px;"/></a></td>
 </tr></table>
 
 ## 🏆 Competitions & Activities
