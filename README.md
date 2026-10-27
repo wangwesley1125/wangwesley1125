@@ -31,3 +31,8 @@
 - [RevenueCat Shipaton — Basyo Memo](https://homare485.github.io/basyo-memo-site/)
 - [ICDC 2025 — International Career Development Conference, Group 7](https://github.com/wangwesley1125/ICDC2025-Group7)
 - [技職盃黑客松南區賽 — SDGs 12 Hackathon](https://github.com/wangwesley1125/SDGs12_Hackathon)
+
+## 🦈 Just keep swimming
+<p align="center">
+  <img src="./assets/ascii-shark.gif" alt="ASCII shark chasing a school of fish" width="800">
+</p>
